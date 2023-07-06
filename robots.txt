@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+Allow: /links/
+Allow: /Photo/
+Allow: /page/
+Sitemap: /sitemap.xml
+Sitemap: /baidusitemap.xml
